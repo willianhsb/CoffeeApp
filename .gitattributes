@@ -3,4 +3,5 @@
 *.cc linguist-detectable=false
 *.h linguist-detectable=false
 *.rc linguist-detectable=false
+*.ico linguist-detectable=false
 *.dart linguist-detectable=true
