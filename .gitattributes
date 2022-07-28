@@ -4,4 +4,6 @@
 *.h linguist-detectable=false
 *.rc linguist-detectable=false
 *.manifest linguist-detectable=false
+*.ico linguist-detectable=false
+*.txt linguist-detectable=false
 *.dart linguist-detectable=true
